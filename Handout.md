@@ -1,12 +1,13 @@
 # Römische Elegien V — Johann Wolfgang von Goethe, 1795
 
-Gedichtsart: 
+Gedichtsart:  
+Reimschema:  
+Metrum:  
 
-Reimschema: 
-
-Metrum:
-
-
+Notizen:  
+:  
+:  
+:  
 
 1. Froh empfind' ich mich nun auf klassischem Boden begeistert,
 2. Vor- und Mitwelt spricht lauter und reizender mir.
@@ -29,11 +30,8 @@ Metrum:
 19. Amor schüret die Lamp' indes und denket der Zeiten,
 20. Da er den nämlichen Dienst seinen Triumvirn getan.
 
-¹ Hexameter: Versmaß, bestehend aus Daktylen (eine lange und zwei kurze Silben),
-die an bestimmten Stellen im Vers auch katalektisch,
-also unvollständig sein dürfen (zwei lange Silben) bzw. müssen.
-Das in den Elegien verwendete elegische Distichon besteht aus abwechselnd Hexameter- und Pentameter-Versen.
+¹Hexameter:
+> Versmaß, bestehend aus Daktylen (eine lange und zwei kurze Silben), die an bestimmten Stellen im Vers auch katalektisch, also unvollständig sein dürfen (zwei lange Silben) bzw. müssen. Das in den Elegien verwendete elegische Distichon besteht aus abwechselnd Hexameter- und Pentameter-Versen.
 
-² Triumvirn: Ursprünglich politischer Begriff für das Bündnis dreier Männer,
-das erste Triumvirat in der römischen Geschichte wurde von Pompeius, Crassus und Caesar gebildet.
-Hier umgewendet auf die drei exemplarischen Dichter der antiken römischen Liebeselegie, Catull, Tibull und Properz.
+²Triumvirn:
+> Ursprünglich politischer Begriff für das Bündnis dreier Männer, das erste Triumvirat in der römischen Geschichte wurde von Pompeius, Crassus und Caesar gebildet. Hier umgewendet auf die drei exemplarischen Dichter der antiken römischen Liebeselegie, Catull, Tibull und Properz.
