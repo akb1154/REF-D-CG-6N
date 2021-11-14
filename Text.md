@@ -31,8 +31,29 @@
 
 ## Sinnabschnitte
 
-㊀ 01 - 04: lyr. ich lehrt sich anhand der Werke der alten  
-㊁ 05 - 
-㊂
-㊃
-㊄
+```json
+"sinnabschnitte"{
+    "abschnitte":[
+        "㊀"{
+            "ln_begin": 01, 
+            "ln_close": 04, 
+            "content": "Belehrung des Lyr. ichs anhand von Antiken Werken"
+        },
+        "㊁"{
+            "ln_begin": 05,
+            "ln_close": 12,
+            "aufbau": "Wiederspuch zu ㊀"{"sign":"aber"},
+            "content":"Beschreibung der Attraktion des lyr. ichs zur Frau" 
+        }
+        "㊂"{
+            "ln_begin": 13,
+            "ln_close": 18,
+            "content": "Aktivitätsbeschreibung des lyr. ichs mit der Frau"
+        }
+        "㊃"{
+            "ln_begin": 19,
+            "ln_close": 20,
+            "content": "Rückblick Amors auf Catull, Poperz & Tibull"
+        }
+    ]
+}
