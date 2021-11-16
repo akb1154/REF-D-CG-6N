@@ -6,7 +6,7 @@
 04. Mit geschäftiger Hand, täglich mit neuem Genuß.  
 -> ln 5: Wiederspruch (Aber); Allegorie, Personifikation (Amor)
 05. *Aber* die Nächte hindurch hält **Amor** mich anders beschäftigt;  
--> a
+-> ln 6: Parallele gegenteile: Antithese (halb ..., doppelt)
 6. Werd' ich auch halb nur gelehrt, bin ich doch doppelt beglückt.  
 7. Und belehr' ich mich nicht, wenn ich des lieblichen Busens  
 8. Formen spähe, die Hand leite die Hüften hinab.  
