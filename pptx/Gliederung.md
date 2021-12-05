@@ -27,13 +27,10 @@
 ### 三. Sprachlich-Stilistische Mittel
 
 #### 1: Syntax
-<!--ul Syntax merkmale-->
 
 #### 2: Wortwahl & Klang
-<!--ul Klang/ Wortwahlmerkmale-->
 
 #### 3: Stilistische Besonderheiten
-<!--ul Stilmittel-->
 - häufige nutzung der *Ellision* !wirnull
 
 ### 四. Zusammenfassende Interpretation
